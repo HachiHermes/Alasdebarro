@@ -1,0 +1,43 @@
+{
+  "pages": 5,
+  "pdf_bytes": 62868,
+  "responsive_widths": [
+    390,
+    768,
+    1100
+  ],
+  "javascript_errors": [],
+  "print_layout": [
+    {
+      "id": "portada",
+      "overflow": false,
+      "bodyBottom": 916.8125,
+      "footerTop": 1049.640625
+    },
+    {
+      "id": "producto",
+      "overflow": false,
+      "bodyBottom": 2125.640625,
+      "footerTop": 2172.15625
+    },
+    {
+      "id": "fases",
+      "overflow": false,
+      "bodyBottom": 3263.4375,
+      "footerTop": 3294.671875
+    },
+    {
+      "id": "presupuesto",
+      "overflow": false,
+      "bodyBottom": 4410.421875,
+      "footerTop": 4417.1875
+    },
+    {
+      "id": "entrega",
+      "overflow": false,
+      "bodyBottom": 5495.6875,
+      "footerTop": 5539.703125
+    }
+  ],
+  "status": "passed"
+}

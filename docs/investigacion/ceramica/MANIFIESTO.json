@@ -1,0 +1,28 @@
+{
+  "published_at_utc": "2026-11-15T10:12:23.522878+00:00",
+  "author": "FORGE",
+  "editorial_review": "ATLAS",
+  "status": "draft_not_validated",
+  "sources": [
+    {
+      "source_file": "estudio-comparativo-sector-ceramica.md",
+      "published_file": "INFORME.md",
+      "source_sha256": "4322fbe66bc7c460ecc54b1f7e7227755b25eb7472e5f1624de32129d23f1781",
+      "transformation": "Aviso editorial añadido; cuerpo original preservado."
+    },
+    {
+      "source_file": "matriz-razonada.txt",
+      "published_file": "MATRIZ-PROPUESTA.md",
+      "source_sha256": "2810a6f0742f62c00ac14ca4e7a28bb94160ae00af401a534d9695ed45daf3f9",
+      "transformation": "Aviso editorial añadido; cuerpo original preservado."
+    },
+    {
+      "source_file": "propuestas-diseno.txt",
+      "published_file": "ALTERNATIVAS-DISENO.md",
+      "source_sha256": "504e7a5ad520317d27cf53dd01719e15e8e1edc7ccda48f4a58e71ee5a3f6bde",
+      "transformation": "Aviso editorial añadido; cuerpo original preservado."
+    }
+  ],
+  "reference_count": 12,
+  "screenshots_in_delivery": 0
+}
